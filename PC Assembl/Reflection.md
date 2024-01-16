@@ -1,2 +1,0 @@
-It was my first time disassembling a PC and I must say that I was much more excited during the process then the entire time I waited for it. It was definitely knowledgeable as I know what components are there in the system unit and how fragile they are. Our group successfully assembled the PC and once the PC was tested, it worked in the first go! We were proud of ourselves as all of us were doing it for the first time and we did it well
-
