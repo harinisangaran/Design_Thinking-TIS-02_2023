@@ -1,5 +1,5 @@
 # E-Portfolio for TIS 2023
 Hi!! I'm Harini Sangaran, from the Faculty of Computing. Have some 🍿 while you scroll through my profile ;)
 ##
-![image](https://github.com/harinisangaran/E-Portfolio-TIS-02_2023/assets/147630493/85f1954c-48a8-4f81-bbf7-31dc4c2d34a1)
-![image](https://github.com/harinisangaran/E-Portfolio-TIS-02_2023/assets/147630493/a4e358c9-e694-4273-835d-3dba21f6a9e0)
+![Screenshot 2024-01-17 015045](https://github.com/harinisangaran/E-Portfolio-TIS-02_2023/assets/147630493/aeaa0d67-d6c5-4a8a-be38-2c4a1a8f29d4)
+![image](https://github.com/harinisangaran/E-Portfolio-TIS-02_2023/assets/147630493/240f6b40-7948-45ca-9ea8-b4156d1e48ad)
