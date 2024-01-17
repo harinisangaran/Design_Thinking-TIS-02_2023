@@ -1,1 +1,1 @@
-
+I was paired with Yu Han for this assignment and it was a pretty much easy assignment as we have the basics to this topic of assignmet. It was a very brief assignment which was completed in a day.
