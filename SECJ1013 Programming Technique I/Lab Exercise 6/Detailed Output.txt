@@ -1,0 +1,23 @@
+Average of the temperature in Celcius: 35.7
+Number of high temperature: 2
+Number of medium tempretaure: 3
+Number of low temperature: 3
+
+C(Celcius)	F(Farenheit)	Description
+==========	============	===========
+
+   54.94	   130.89	    H
+
+   19.86	   67.750	    L
+
+   93.71	   200.67	    H
+
+   13.77	   56.780	    L
+
+   28.97	   84.150	    M
+
+   33.60	   92.480	    M
+
+   24.07	   75.320	    M
+
+   16.53	   61.750	    L
