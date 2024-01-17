@@ -1,1 +1,1 @@
-
+Lab Exercise 2 consisted of 4 questions where I had to only answer 2. This task focused more on how pre-loops and post-loops worked. Therefore, I selected one question with pre-loop and one question with post-loop
