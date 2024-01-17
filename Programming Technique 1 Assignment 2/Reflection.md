@@ -1,1 +1,0 @@
-My assignment 2 was also a group project and it was based on my first assignment. As I drew flowchart in my assignment, I was required to do coding for that exact flowchart using C++. It was my first time coding using C++ so I struggled a little but eventually got the hang of it. 
